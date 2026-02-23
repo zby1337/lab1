@@ -3,7 +3,7 @@ from app import add, divide
 
 
 def test_add():
-    assert add(2, 3) == 6 #ошибка
+    assert add(2, 3) == 7 #ошибка
 
 
 def test_divide():
